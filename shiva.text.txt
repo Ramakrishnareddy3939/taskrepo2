@@ -1,1 +1,9 @@
 hii all
+
+repository in local file
+
+some chances in local repo
+
+git stach
+
+git log
