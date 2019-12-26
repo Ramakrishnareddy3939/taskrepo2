@@ -7,3 +7,5 @@ some chances in local repo
 git stach
 
 git log
+
+git help[
